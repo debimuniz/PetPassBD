@@ -1,0 +1,3 @@
+- Retirada da fk de categoria da tabela pet
+
+- inserção da coluna bonificação para aniversário
